@@ -1,9 +1,11 @@
 # MobiLogic
 This is an archive of a previously completed university project.
-
 *Note: This project was completed with a group of six people.*
-
-
+   
+MobiLogic is a logic simulator built in Codename One. This logic simulator 
+would allow users to experiment with simple logic circuits in real time and 
+get immediate feedback on their understanding.
+   
 ## Design Document
 
 ## Introduction
