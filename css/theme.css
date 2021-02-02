@@ -1,0 +1,28 @@
+:root{
+    --BarTextColor: #DFDFDF;
+    --BarHeaderColor: #A3E8FF;
+}
+#Constants {
+    includeNativeBool: true; 
+}
+BarHeader {
+    margin-top: 4mm;
+}
+BarHeaderText{
+    font-size: 5mm;
+    color:var(--BarHeaderColor);
+}
+BarItem {
+    padding: 0.25mm 5mm 0.25mm;
+
+}
+BarItemText {
+    font-size: 3.5mm;
+    color:var(--BarTextColor);
+}
+EditorContainer{
+
+}
+EditorButton{
+    margin:0mm 1.2mm 0mm;
+}
